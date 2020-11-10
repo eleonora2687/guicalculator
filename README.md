@@ -1,2 +1,3 @@
 # guicalculator
-Calculator in Python tainted
+Calculator in Python tkinter
+
